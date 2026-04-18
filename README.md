@@ -1,4 +1,4 @@
-# Selected Work
+# Experiments, Products & Tools
 
 A curated collection of my work across AI tooling, creative software, interactive interfaces, and full-stack products.
 
