@@ -9,7 +9,7 @@
 
 ## AI Slop for Fun
 
-* **[Excal](https://github.com/raunak42/Excal)** – Premium single-user Excalidraw-style workspace with GitHub-only auth, Supabase-backed cloud sync, local IndexedDB caching, and polished project management flows.
-* **[Temp Mail](https://github.com/raunak42/Temp-mail)** – Private temporary mail dashboard with one-click mailbox creation, separate inboxes per address, Resend webhook ingestion, and optional Cloudflare R2 attachment storage.
 * **[codex-fresh](https://github.com/raunak42/codex-fresh)** – Codex CLI utility that forks slow or stale chat sessions into a fresh process while preserving locally saved context and session metadata.
 * **[caption-insert](https://github.com/raunak42/caption-insert)** – Browser-based caption studio for generating word-level synced subtitles, editing styles in real time, and exporting captioned video with local rendering and FFmpeg-powered processing.
+* **[Excal](https://github.com/raunak42/Excal)** – Single-user Excalidraw-style workspace with GitHub-only auth, Supabase-backed cloud sync, local IndexedDB caching, and polished project management flows.
+* **[Temp Mail](https://github.com/raunak42/Temp-mail)** – Private temporary mail dashboard with one-click mailbox creation, separate inboxes per address, Resend webhook ingestion, and optional Cloudflare R2 attachment storage.
