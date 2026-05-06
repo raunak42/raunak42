@@ -1,6 +1,6 @@
 # Experiments, Products & Tools
 
-* **[perry (under progress)](https://github.com/raunak42/perry)** – CLI coding agent in the spirit of Codex and Claude Code, focused on agentic terminal workflows for building, editing, and shipping software.
+* **[perry (under progress)](https://github.com/raunak42/perry)** – CLI coding agent for agentic terminal workflows, built for software projects that need fast file edits, command execution, and iterative coding sessions.
 * **[bubblz](https://github.com/raunak42/bubblz)** – Motion-heavy soda brand microsite using Three.js, GSAP, and immersive scroll choreography to turn a product page into an interactive 3D experience.
 * **[robbie](https://github.com/raunak42/robbie)** – 3D product marketing experience for an AI robot concept, blending Spline-powered scenes, animated storytelling, and Stripe checkout flows.
 * **[bucket0](https://github.com/raunak42/bucket0)** – Bucket0-inspired storage dashboard with managed per-user drive space, external S3-compatible bucket connections, multipart uploads, and a polished file management interface.
