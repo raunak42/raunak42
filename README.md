@@ -2,11 +2,6 @@
 
 * **[perry (under progress)](https://github.com/raunak42/perry)** – CLI coding agent like Codex/Claude Code, built for fast file edits, command execution, and iterative terminal-based coding sessions.
 
-<p>
-  <sub>Architecture inspiration: <a href="https://ghuntley.com/agent/">ghuntley.com/agent</a></sub><br />
-  <img src="./assets/perry-architecture-inspiration.png" alt="Perry architecture inspiration" width="700" />
-</p>
-
 * **[bubblz](https://github.com/raunak42/bubblz)** – Motion-heavy soda brand microsite using Three.js, GSAP, and immersive scroll choreography to turn a product page into an interactive 3D experience.
 * **[robbie](https://github.com/raunak42/robbie)** – 3D product marketing experience for an AI robot concept, blending Spline-powered scenes, animated storytelling, and Stripe checkout flows.
 * **[bucket0](https://github.com/raunak42/bucket0)** – Bucket0-inspired storage dashboard with managed per-user drive space, external S3-compatible bucket connections, multipart uploads, and a polished file management interface.
