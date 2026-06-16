@@ -1,6 +1,6 @@
 # Experiments, Products & Tools
 
-* **[perry (under progress)](https://github.com/raunak42/perry)** – CLI coding agent like Codex/Claude Code, built for fast file edits, command execution, and iterative terminal-based coding sessions.
+* **[perry - agent coding harness](https://github.com/raunak42/perry)** – CLI coding agent like Codex/Claude Code, built for fast file edits, command execution, and iterative terminal-based coding sessions.
 
 * **[bubblz](https://github.com/raunak42/bubblz)** – Motion-heavy soda brand microsite using Three.js, GSAP, and immersive scroll choreography to turn a product page into an interactive 3D experience.
 * **[robbie](https://github.com/raunak42/robbie)** – 3D product marketing experience for an AI robot concept, blending Spline-powered scenes, animated storytelling, and Stripe checkout flows.
