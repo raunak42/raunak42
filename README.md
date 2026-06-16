@@ -1,5 +1,6 @@
 # Experiments, Products & Tools
 
+* **[middle-earth-portfolio](https://github.com/raunak42/middle-earth-portfolio)** – Middle-earth-inspired interactive portfolio built with Next.js, React Three Fiber, and a 3D cave scene for exploring projects, experience, and contact details.
 * **[perry - agent coding harness](https://github.com/raunak42/perry)** – CLI coding agent like Codex/Claude Code, built for fast file edits, command execution, and iterative terminal-based coding sessions.
 
 * **[bubblz](https://github.com/raunak42/bubblz)** – Motion-heavy soda brand microsite using Three.js, GSAP, and immersive scroll choreography to turn a product page into an interactive 3D experience.
